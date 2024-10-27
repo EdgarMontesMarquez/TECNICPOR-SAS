@@ -350,7 +350,6 @@ h2::after {
     height: 500px;
     border-radius: var(--border-radius); /* Aplicar el borde redondeado */
 }
-
 /* Adaptación en pantallas más pequeñas */
 @media (max-width: 768px) {
     header h1 {
